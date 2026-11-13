@@ -36,7 +36,7 @@ I enjoy learning how software works, practicing problem-solving, and exploring h
 
 <p align="center">
   <a href="https://github.com/Muhammadansar18lys">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="60" alt="GitHub"/>
   </a>
 </p>
 
